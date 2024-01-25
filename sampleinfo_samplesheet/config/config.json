@@ -1,0 +1,15 @@
+{
+    "sheet_name": "送样表(累计)",
+    "headers": {
+        "送样日期": "SAMPLE_DATE",
+        "条码": "BARCODE",
+        "文库编号": "LIBRARY_NUMBER",
+        "capture编号": "CAPTURE_NUMBER",
+        "index_i7": "INDEX_I7",
+        "index": "INDEX",
+        "index_i5": "INDEX_I5",
+        "index2": "INDEX2",
+        "数据量(G)": "DATA_VOLUME",
+        "文库浓度(ng/μL)": "LIBRARY_CONCENTRATION"
+    }
+}
